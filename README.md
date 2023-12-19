@@ -11,3 +11,4 @@
     </a>
 </div>
 
+![alt text](./img/bottom.svg)
