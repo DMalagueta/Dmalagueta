@@ -1,3 +1,5 @@
+![alt text](./img/githubcovertop.svg)
+
 ## Welcome to my profile 👾 I'm Diogo
 
 [![LinkedIn](https://i.imgur.com/dIKtn3m.png)](https://www.linkedin.com/in/diogomalagueta/)
