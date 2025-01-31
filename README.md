@@ -2,7 +2,7 @@
 
 I'm a passionate software developer with a love for building scalable, high-performance applications. I've honed my skills in web development focused on mobile applications.
 
-- 🔭 I’m currently working on Hi-Interactive
+- 🔭 I’m currently working on Link Consulting
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on mobile projects
 - 📫 How to reach me: mrmalagueta@gmail.com
