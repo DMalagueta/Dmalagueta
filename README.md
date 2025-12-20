@@ -81,8 +81,12 @@ Before all this, I spent **4 years in the Portuguese Navy** — which taught me 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dmalagueta&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmalagueta&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DMalagueta&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DMalagueta&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DMalagueta&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
