@@ -1,5 +1,10 @@
 <h1 align="center">Hey, I'm Diogo 👋</h1>
-<h3 align="center">Frontend Developer · Turning coffee into interfaces since 2020</h3>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%96%A5%EF%B8%8F;React+%7C+Next.js+%7C+TypeScript+enthusiast;Clean+UI%2C+smooth+UX%2C+zero+excuses;Ex-Navy+%F0%9F%9A%A2+%E2%86%92+Now+shipping+pixels" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/diogomalagueta">
@@ -78,16 +83,13 @@ Before all this, I spent **4 years in the Portuguese Navy** — which taught me 
 
 ---
 
-## 📊 GitHub Stats
+## 🐍 Contribution Graph
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DMalagueta&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DMalagueta&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DMalagueta&theme=tokyonight&hide_border=true" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DMalagueta/DMalagueta/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DMalagueta/DMalagueta/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/DMalagueta/DMalagueta/output/github-snake.svg" />
+</picture>
 
 ---
 
