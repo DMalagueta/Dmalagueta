@@ -69,7 +69,7 @@ location     : Lisbon, Portugal
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DMalagueta&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8b949e&icon_color=8b5cf6&ring_color=58A6FF" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=DMalagueta&hide_border=true&background=0D1117&ring=58A6FF&fire=8b5cf6&currStreakLabel=58A6FF&sideLabels=8b949e&currStreakNum=f1f5f9&sideNums=f1f5f9&dates=8b949e&stroke=0d1117" height="165" />
+  <img src="https://streak-stats.demolab.com?user=DMalagueta&hide_border=true&background=0D1117&ring=58A6FF&fire=8b5cf6&currStreakLabel=58A6FF&sideLabels=8b949e&currStreakNum=f1f5f9&sideNums=f1f5f9&dates=8b949e&stroke=0d1117" height="165" />
 </p>
 
 ---
