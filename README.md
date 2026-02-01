@@ -67,9 +67,14 @@ location     : Lisbon, Portugal
 
 ---
 
+### ~$ git log --oneline --graph
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DMalagueta&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8b949e&icon_color=8b5cf6&ring_color=58A6FF" height="165" />
-  <img src="https://streak-stats.demolab.com?user=DMalagueta&hide_border=true&background=0D1117&ring=58A6FF&fire=8b5cf6&currStreakLabel=58A6FF&sideLabels=8b949e&currStreakNum=f1f5f9&sideNums=f1f5f9&dates=8b949e&stroke=0d1117" height="165" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=DMalagueta&bg_color=0d1117&color=58A6FF&line=8b5cf6&point=58A6FF&area_color=8b5cf6&area=true&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=DMalagueta&bg_color=ffffff&color=3b82f6&line=8b5cf6&point=3b82f6&area_color=8b5cf6&area=true&hide_border=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=DMalagueta&bg_color=0d1117&color=58A6FF&line=8b5cf6&point=58A6FF&area_color=8b5cf6&area=true&hide_border=true" alt="contribution graph" />
+  </picture>
 </p>
 
 ---
