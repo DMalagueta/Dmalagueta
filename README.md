@@ -1,6 +1,10 @@
 <h1 align="center">Hey, I'm Diogo 👋</h1>
 
 <p align="center">
+  <img src="https://pascal.diogomalagueta.com/api/hit/diogo/profile/shield?text=profile+views&bgcolor=%23007ec6&style=flat" alt="profile views" />
+</p>
+
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%96%A5%EF%B8%8F;React+%7C+Next.js+%7C+TypeScript+enthusiast;Clean+UI%2C+smooth+UX%2C+zero+excuses;Ex-Navy+%F0%9F%9A%A2+%E2%86%92+Now+shipping+pixels" alt="Typing SVG" />
   </a>
