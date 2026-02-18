@@ -1,7 +1,9 @@
 <h1 align="center">Hey, I'm Diogo 👋</h1>
 
 <p align="center">
-  <img src="https://pascal.diogomalagueta.com/api/hit/diogo/profile/shield?text=profile+views&bgcolor=%23007ec6&style=flat" alt="profile views" />
+  <a href="https://pascal.diogomalagueta.com" target="_blank">
+    <img src="https://pascal.diogomalagueta.com/api/hit/diogo/profile/shield?text=profile+views&bgcolor=%23007ec6&style=flat" alt="profile views" />
+  </a>
 </p>
 
 <p align="center">
