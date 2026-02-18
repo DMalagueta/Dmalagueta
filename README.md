@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://pascal.diogomalagueta.com" target="_blank">
-    <img src="https://pascal.diogomalagueta.com/api/hit/diogo/profile/shield?text=profile+views&bgcolor=%23007ec6&style=flat" alt="profile views" />
+    <img src="https://pascal.diogomalagueta.com/api/hit/diogo/profile/shield?text=profile+views&bgcolor=%23007ec6" alt="profile views" />
   </a>
 </p>
 
